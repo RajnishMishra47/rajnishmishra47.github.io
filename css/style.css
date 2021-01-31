@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Targeting class */
+.nav{
+    background-color: #242424;
+    height: 70px;
+    display: flex;
+    align-items: center;
+
+}
+
+.btn-container{
+    margin-left:auto;
+}
+
+
+
+.links{
+    width: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.link-item a{
+    color: #e81e3c;
+}
+
+
+
+/* Targeting Tags */
+a{
+    text-decoration: none;
+}
+
+button{
+    /*  */
+}
